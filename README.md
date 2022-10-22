@@ -6,3 +6,4 @@ Sas96rp
 
 
 # this site was crated as a Demo for the [Computing Fundamentals Course](https://www.roppers.org/courses/)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
