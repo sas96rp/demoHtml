@@ -1,5 +1,4 @@
-// Via HTML:
-<span style="color:red">some *red* text</span>.
+code-editor-background-color
 # demoHtml
 A Demo HTML Site from the Computing Fundamentals Course
 
